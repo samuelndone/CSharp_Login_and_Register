@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Login_and_Register", "Csharp_Login_and_Register.csproj", "{86CA1D33-13D9-48A7-A735-566311EE6D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CA1D33-13D9-48A7-A735-566311EE6D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CA1D33-13D9-48A7-A735-566311EE6D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CA1D33-13D9-48A7-A735-566311EE6D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CA1D33-13D9-48A7-A735-566311EE6D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A186728C-3331-4233-A9A3-1522352FC59F}
+	EndGlobalSection
+EndGlobal
